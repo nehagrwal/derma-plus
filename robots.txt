@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/derma-plus/sitemap.xml
+Sitemap: https://derma-plus.vercel.app/sitemap-vercel.xml
+Sitemap: https://derma-plus.pages.dev/sitemap-cloudflare.xml
